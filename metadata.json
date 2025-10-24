@@ -1,0 +1,5 @@
+{
+  "name": "Policy Visualizer",
+  "description": "An application to visualize how different countries, ideologies, and systems approach common policy challenges using AI-driven analysis and clustering.",
+  "requestFramePermissions": []
+}
